@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 - Tensorflow Developer Certificate
 - ADsP (데이터 분석 준전문가)
 - SQLD (SQL 개발자)
+
+👯 Group
+- ITS (Information Technology Society)
+
