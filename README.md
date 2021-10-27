@@ -1,4 +1,4 @@
-### Hi there 👋
+### Byoungmo Koo 👋
 
 <!--
 **Koo-BM/Koo-BM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 Data Science 배우는 중~
+- Data Analysis
+- ML/DL
+- SQL
+- Tableau
+- QGIS
+
+📌 School
+- 고려대학교 통계학과, 산업경영공학과
+- 미추홀외국어고등학교
