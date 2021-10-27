@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 👯 Group
 - ITS (Information Technology Society)
 
+👊 Career
+- 해양경찰청 공공 빅데이터 인턴
+- Socar Research Assistant
