@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 📌 School
 - 고려대학교 통계학과, 산업경영공학과
 - 미추홀외국어고등학교
+
+🏆 Certificate
+- Tensorflow Developer Certificate
+- ADsP (데이터 분석 준전문가)
+- SQLD (SQL 개발자)
