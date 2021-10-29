@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - SQLD (SQL 개발자)
 
 👯 Group
-- ITS (Information Technology Society)
+- ITS (Information Technology Society) - Vice President
 
 👊 Career
 - 해양경찰청 공공 빅데이터 인턴
