@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 👯 Group
 - ITS (Information Technology Society) - Vice President
-
+- ADS (Altruistic DataScience, datascience.kor)
 👊 Career
 - 해양경찰청 공공 빅데이터 인턴
 - Socar Research Assistant
