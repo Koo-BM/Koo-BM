@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - SQLD (SQL 개발자)
 
 👯 Group
-- ITS (Information Technology Society) - Vice President
+- ITS ([Information Technology Society](https://www.instagram.com/kuits_/)) - Vice President
 - ADS (Altruistic DataScience, [datascience.kor](https://www.instagram.com/datascience.kor/))
 
 👊 Career
