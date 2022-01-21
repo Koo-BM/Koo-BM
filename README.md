@@ -15,27 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>🌱 Data Science 배우는 중~</h2>
-- Data Analysis
-- ML/DL
+<h2>🌱 Language</h2>
+- Python
+- R
 - SQL
+
+<h2>🔨 Tool</h2>
 - Tableau
 - QGIS
 
 <h2>📌 School</h2>
+
 - 고려대학교 통계학과, 산업경영공학과
+
 - 미추홀외국어고등학교
 
 <h2>🏆 Certificate</h2>
+
 - Tensorflow Developer Certificate
+
 - ADsP (데이터 분석 준전문가)
+
 - SQLD (SQL 개발자)
 
 <h2>👯 Group</h2>
+
 - ITS ([Information Technology Society](https://www.instagram.com/kuits_/)) - Vice President
+
 - ADS (Altruistic DataScience, [datascience.kor](https://www.instagram.com/datascience.kor/))
 
 <h2>👊 Career</h2>
+
 - 해양경찰청 공공 빅데이터 인턴
 
 <h2>💻 Project</h2>
@@ -54,3 +64,4 @@ Here are some ideas to get you started:
 ##### 5. 제 21회 산림 ICT 컨퍼런스
 
 ##### 6. 제 2회 KUIAI-해커톤
+- [도로명주소별 입지 점수 예측 모델 개발 및 입지 점수 등급 시각화](https://github.com/Koo-BM/KUIAI)
