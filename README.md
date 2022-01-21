@@ -15,31 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>🔨 Tool & Language</h2>
-
-- Programming Language: `Python`, `R`, `SQL`
-
-- Tool: `QGIS`, `Tableau`, `SAS`
-
 <h2>📌 School</h2>
 
 - `2016.03 ~ 2023.02`고려대학교 통계학과, 산업경영공학과
 
 - `2013.03 ~ 2016.02`미추홀외국어고등학교
-
-<h2>🏆 Certificate</h2>
-
-- Tensorflow Developer Certificate
-
-- ADsP (데이터 분석 준전문가)
-
-- SQLD (SQL 개발자)
-
-<h2>👯 Group</h2>
-
-- `2020.09 ~ 2021.12` ITS ([Information Technology Society](https://www.instagram.com/kuits_/)) - Vice President
-
-- `2021.11 ~ ing` ADS (Altruistic DataScience, [datascience.kor](https://www.instagram.com/datascience.kor/))
 
 <h2>👊 Career</h2>
 
@@ -72,3 +52,22 @@ Here are some ideas to get you started:
 #### 6. 제21회 산림 ICT 컨퍼런스
 - [목재 유통 프로세스 Digital Transformation을 위한 블록체인 SCM 플랫폼](https://github.com/Koo-BM/Forest_ICT)
 
+<h2>🔨 Tool & Language</h2>
+
+- Programming Language: `Python`, `R`, `SQL`
+
+- Tool: `QGIS`, `Tableau`, `SAS`
+
+<h2>🏆 Certificate</h2>
+
+- Tensorflow Developer Certificate
+
+- ADsP (데이터 분석 준전문가)
+
+- SQLD (SQL 개발자)
+
+<h2>👯 Group</h2>
+
+- `2020.09 ~ 2021.12` ITS ([Information Technology Society](https://www.instagram.com/kuits_/)) - Vice President
+
+- `2021.11 ~ ing` ADS (Altruistic DataScience, [datascience.kor](https://www.instagram.com/datascience.kor/))
