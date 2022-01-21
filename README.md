@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 - [이미지 분류 딥러닝 프로젝트](https://github.com/Koo-BM/GPU_DL)
 
-#### 5. 공공 빅데이터 청년 인턴십 데이턴십 해커톤 제 4회
+#### 5. 공공 빅데이터 청년 인턴십 데이턴십 해커톤 제4회
 
 - [서울시 장애인콜택시 대기시간 단축을 위한 머신러닝 기반 수요량 예측 모델 제안](https://github.com/Koo-BM/Gongbig_Hackathon)
 
