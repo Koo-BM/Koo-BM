@@ -15,16 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>🌱 Language</h2>
-- `Python`
+<h2>🔨 Tool & Language</h2>
 
-- `R`
+- Programming Language: `Python`, `R`, `SQL`
 
-- `SQL`
-
-<h2>🔨 Tool</h2>
-- Tableau
-- QGIS
+- Tool: `QGIS`, `Tableau`, `SAS`
 
 <h2>📌 School</h2>
 
