@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 
 #### 5. 공공 빅데이터 청년 인턴십 데이턴십 해커톤 제 4회
 
-#### 6. 제 21회 산림 ICT 컨퍼런스
+#### 6. 제21회 산림 ICT 컨퍼런스
 
 
