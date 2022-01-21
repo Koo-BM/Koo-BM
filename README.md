@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <h2>🌱 Language</h2>
-- Python
-- R
-- SQL
+- `Python`
+
+- `R`
+
+- `SQL`
 
 <h2>🔨 Tool</h2>
 - Tableau
@@ -26,9 +28,9 @@ Here are some ideas to get you started:
 
 <h2>📌 School</h2>
 
-- 고려대학교 통계학과, 산업경영공학과
+- `2016.03 ~ ing`고려대학교 통계학과, 산업경영공학과
 
-- 미추홀외국어고등학교
+- `2013.03 ~ 2016.02`미추홀외국어고등학교
 
 <h2>🏆 Certificate</h2>
 
@@ -40,13 +42,13 @@ Here are some ideas to get you started:
 
 <h2>👯 Group</h2>
 
-- ITS ([Information Technology Society](https://www.instagram.com/kuits_/)) - Vice President
+- `2020.09 ~ 2021.12` ITS ([Information Technology Society](https://www.instagram.com/kuits_/)) - Vice President
 
-- ADS (Altruistic DataScience, [datascience.kor](https://www.instagram.com/datascience.kor/))
+- `2021.11 ~ ing` ADS (Altruistic DataScience, [datascience.kor](https://www.instagram.com/datascience.kor/))
 
 <h2>👊 Career</h2>
 
-- 해양경찰청 공공 빅데이터 인턴
+- `2021.09 ~ 2022.02` 해양경찰청 공공 빅데이터 인턴
 
 <h2>💻 Project</h2>
 
