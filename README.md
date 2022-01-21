@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 - [갯끈풀 발생 영향 변수 도출 및 갯벌별 위험등급 산출 _ 데이콘 버전](https://dacon.io/competitions/official/235793/codeshare/3664?page=1&dtype=recent)
 
-#### 2. 제 2회 KUIAI-해커톤
+#### 2. 제2회 KUIAI-해커톤
 
 - [도로명주소별 입지 점수 예측 모델 개발 및 입지 점수 등급 시각화](https://github.com/Koo-BM/KUIAI)
 
