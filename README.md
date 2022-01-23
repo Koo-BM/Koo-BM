@@ -1,4 +1,4 @@
-### Byoungmo Koo 👋
+<h2 align="center">Byoungmo Koo<br></h2>
 
 <!--
 **Koo-BM/Koo-BM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
