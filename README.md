@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 #### 4. 2021 날씨 빅데이터 콘테스트
 
-- [날씨 최적화 식단 설계 및 추천 플랫폼: 뭉게뭉게 냉장고](https://github.com/Koo-BM/weather_contest)
+- `2021.05.13 ~ 2021.06.28` [날씨 최적화 식단 설계 및 추천 플랫폼: 뭉게뭉게 냉장고](https://github.com/Koo-BM/weather_contest)
 
 #### 5. 공공 빅데이터 청년 인턴십 데이턴십 해커톤 제4회
 
