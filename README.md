@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - `2013.03 ~ 2016.02`미추홀외국어고등학교
 
-<h2>👊 Experience</h2>
+<h2>💼 Experience</h2>
 
 - `2021.09 ~ 2022.02` 해양경찰청 공공 빅데이터 인턴
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 - SQLD (SQL 개발자)
 
-<h2>👯 Group</h2>
+<h2>👨‍💻 Group</h2>
 
 - `2020.09 ~ 2021.12` ITS ([Information Technology Society](https://www.instagram.com/kuits_/)) - Vice President
 
