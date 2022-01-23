@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 #### 2. 제2회 KUIAI-해커톤
 
-- [도로명주소별 입지 점수 예측 모델 개발 및 입지 점수 등급 시각화](https://github.com/Koo-BM/KUIAI)
+- `2022.01.10 ~ 2022.01.14` [도로명주소별 입지 점수 예측 모델 개발 및 입지 점수 등급 시각화](https://github.com/Koo-BM/KUIAI)
 
 #### 3. 2021 GPU 서버 기초 및 특강 딥러닝 프로젝트
 
