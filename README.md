@@ -52,7 +52,12 @@ Here are some ideas to get you started:
 - `2021.08.02 ~ 2021.08.18` [서울시 장애인콜택시 대기시간 단축을 위한 머신러닝 기반 수요량 예측 모델 제안](https://github.com/Koo-BM/Gongbig_Hackathon)
 
 #### 6. 제21회 산림 ICT 컨퍼런스
+
 - `2021.10.27 ~ 2021.11.17` [목재 유통 프로세스 Digital Transformation을 위한 블록체인 SCM 플랫폼](https://github.com/Koo-BM/Forest_ICT)
+
+#### 7. 제2회 조선/해양산업 디지털 혁신을 위한 BIG DATA / AI 대학생 경진대회
+
+- `2022.01.24 ~ ing`
 
 <h2>🔨 Tool & Language</h2>
 
