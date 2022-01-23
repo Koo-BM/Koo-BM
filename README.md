@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 #### 3. 2021 GPU 서버 기초 및 특강 딥러닝 프로젝트
 
-- [이미지 분류 딥러닝 프로젝트](https://github.com/Koo-BM/GPU_DL)
+- `2021.05.28` [이미지 분류 딥러닝 프로젝트](https://github.com/Koo-BM/GPU_DL)
 
 #### 4. 2021 날씨 빅데이터 콘테스트
 
