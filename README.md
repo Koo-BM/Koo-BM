@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 #### 1. 2021 JOISS 해양과학 빅데이터 활용 경진대회
 
-- `2021. 09. 01 ~ 2021. 10. 24` [갯끈풀 발생 영향 변수 도출 및 갯벌별 위험등급 산출](https://github.com/Koo-BM/DACON-JOISS)
+- `2021.09.01 ~ 2021.10.24` [갯끈풀 발생 영향 변수 도출 및 갯벌별 위험등급 산출](https://github.com/Koo-BM/DACON-JOISS)
 
 - [갯끈풀 발생 영향 변수 도출 및 갯벌별 위험등급 산출 _ 데이콘 버전](https://dacon.io/competitions/official/235793/codeshare/3664?page=1&dtype=recent)
 
