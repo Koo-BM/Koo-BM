@@ -75,6 +75,8 @@ Here are some ideas to get you started:
 
 - ADsP (데이터 분석 준전문가)
 
+- 빅데이터 분석기사
+
 - SQLD (SQL 개발자)
 
 <h2>👨‍💻 Group</h2>
